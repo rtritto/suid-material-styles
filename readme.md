@@ -6,3 +6,5 @@ cd vite-plugin-ssr/examples/solid-ssr/
 npm install
 npm run dev
 ```
+
+Issue: https://github.com/swordev/suid/issues/211
